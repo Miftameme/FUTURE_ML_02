@@ -42,16 +42,16 @@ Build a machine learning model to predict short-term stock price trends using Li
 ## 📸 Visuals
 
 ### Closing Price  
-![Close](outputs/aapl_close_price.png)
+![Close](Visualization/aapl_close_price.png)
 
 ### SMA20 + SMA50  
-![SMAs](outputs/aapl_sma_plot.png)
+![SMAs](Visualization/aapl_sma_plot.png)
 
 ### Actual vs Predicted  
-![Predicted](outputs/actual_vs_predicted_linear.png)
+![Predicted](Visualization/actual_vs_predicted_linear.png)
 
 ### Buy/Sell Signals  
-![BuySell](outputs/aapl_buy_sell_signals.png)
+![BuySell](Visualization/aapl_buy_sell_signals.png)
 
 ---
 
